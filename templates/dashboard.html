@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <title>Personal Diary</title>
+ 
+ 
+    <link rel="stylesheet" href="static/css/bootstrap.min.css">
+    <link href="static/css/jumbotron-narrow.css" rel="stylesheet">
+    <script src="../static/js/jquery.js"></script>
+    
+    <script>
+        $(function() {
+    $.ajax({
+        url: '/getAllWishes',
+        type: 'GET',
+        success: function(response) {
+            var data = JSON.parse(response);
+            var itemsPerRow = 0;
+var div = $('<div>').attr('class', 'row');
+for (var i = 0; i < data.length; i++) {
+     
+ 
+    if (itemsPerRow < 3) {
+       
+        if (i == data.length - 1) {
+            div.append(CreateThumb(data[i].Id,data[i].Title, data[i].Description, data[i].FilePath));
+            $('.well').append(div);
+        } else {
+            div.append(CreateThumb(data[i].Id,data[i].Title, data[i].Description, data[i].FilePath));
+            itemsPerRow++;
+        }
+    } else {
+        $('.well').append(div);
+        div = $('<div>').attr('class', 'row');
+        div.append(CreateThumb(data[i].Id,data[i].Title, data[i].Description, data[i].FilePath));
+        if (i == data.length - 1) {
+            $('.well').append(div);
+        }
+        itemsPerRow = 1;
+    }
+     
+}
+        },
+        error: function(error) {
+            console.log(error);
+        }
+    });
+});
+
+function CreateThumb(id,title,desc,filepath,like){
+			var mainDiv = $('<div>').attr('class','col-sm-4 col-md-4');
+			var thumbNail = $('<div>').attr('class','thumbnail');
+			var img = $('<img>').attr({'src':filepath,'data-holder-rendered':true,'style':'height: 150px; width: 150px; display: block'});
+			var caption = $('<div>').attr('class','caption');
+			var title = $('<h3>').text(title);
+			var desc = $('<p>').text(desc);
+			
+
+			var p = $('<p>');
+			var btn = $('<button>').attr({'id':'btn_'+id,'type':'button','class':'btn btn-danger btn-sm'});
+			
+			
+		
+			
+			
+			
+			caption.append(title);
+			caption.append(desc);
+
+			thumbNail.append(img);
+			thumbNail.append(caption);
+			mainDiv.append(thumbNail);
+			return mainDiv;
+
+			
+		}
+    </script>
+   
+ 
+</head>
+ 
+<body>
+ 
+    <div class="container">
+        <div class="header">
+            <nav>
+                <ul class="nav nav-pills pull-right">
+                    <li role="presentation" class="active"><a href="#">Dashboard</a></li>
+                    <li role="presentation"><a href="/userHome">My Diary List</a></li>
+                    <li role="presentation"><a href="/showAddWish">Add Diary</a></li>
+                    <li role="presentation"><a href="/logout">Logout</a></li>
+                </ul>
+            </nav>
+            <h3 class="text-muted">Personal Diary</h3>
+            
+        </div>
+
+
+        <div class="well">
+            
+            
+ 
+        </div>
+        <footer class="footer">
+        <p><a href = 'https://www.github.com/yunkwangyou'>&copy; yunkwang</a></p>
+      </footer>
+</body>
+ 
+</html>
