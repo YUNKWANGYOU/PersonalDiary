@@ -1,6 +1,7 @@
 # 'My Diary'
 
 - Mockup <br>
+ <img width="945" alt="image" src="https://user-images.githubusercontent.com/47051379/120445207-5b232100-c3c3-11eb-8ad7-0f2ad29aad1a.png">
 
 
 - User Stories <br>
