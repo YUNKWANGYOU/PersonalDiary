@@ -1,5 +1,8 @@
-# 'My Diary'
-
+# Personal Diary
+- User Manual<br>
+<a href = 'https://www.youtube.com/watch?v=kby7NY6yrpI'>Watch Personal Diary User Manual On Youtube</a><br>
+사용자 환경은 requirements.txt를 통해 설정하세요
+<br>
 - Mockup <br>
  <img width="945" alt="image" src="https://user-images.githubusercontent.com/47051379/120445207-5b232100-c3c3-11eb-8ad7-0f2ad29aad1a.png">
 
