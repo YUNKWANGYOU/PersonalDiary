@@ -1,6 +1,6 @@
 # Personal Diary
 - User Manual<br>
-<a href = 'https://www.youtube.com/watch?v=kby7NY6yrpI'>See my Usual Manual On Youtube</a><br>
+<a href = 'https://www.youtube.com/watch?v=kby7NY6yrpI'>See my User Manual On Youtube</a><br>
 사용자 환경은 requirements.txt를 통해 설정하세요
 <br>
 - Mockup <br>
