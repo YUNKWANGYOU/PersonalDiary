@@ -30,3 +30,17 @@
 
 </details>
 
+- Diagram
+1. Use Case
+<br>
+<img width="793" alt="image" src="https://user-images.githubusercontent.com/47051379/120445601-ba813100-c3c3-11eb-87a9-646d165fc92e.png">
+<br>
+2. Sequence
+<br>
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/47051379/120445761-e8667580-c3c3-11eb-87d5-baea84abd7e9.png">
+<br>
+3. Class
+<br>
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/47051379/120445802-f1efdd80-c3c3-11eb-8695-7dd6f831db3d.png">
+<br>
+
