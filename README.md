@@ -8,8 +8,8 @@
 
 <br>
 - User Stories <br>
-<details>
-  <summary>User</summary>
+
+1. User <br>
 
 |Index|Story|
 |------|---|
@@ -17,11 +17,11 @@
 |2|As an user, I want to sign-in to Personal Diary website, so that I can log in of Personal Diary website to post/delete/edit my diary|
 |3|As an user, I want to sign-out to Personal Diary website, so that the security of my account is kept on|
 
+<br>
 
-</details>
 
-<details>
-  <summary>Uploader</summary>
+
+2. Uploader<br>
 
 |Index|Story|
 |------|---|
@@ -29,9 +29,7 @@
 |5|As an uploader, I want to delete my diary, so that other I can’t see my diary.|
 |6|As an uploader, I want to edit my diary, so that I can see my edited diary.|
 |7|As an uploader, I want to see my diary list that I uploaded, so that I can see my diary list.|
-
-
-</details>
+<br>
 <br>
 - Diagram<br>
 1. Use Case
