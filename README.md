@@ -30,7 +30,7 @@
 
 </details>
 <br>
-- Diagram
+- Diagram<br>
 1. Use Case
 <br>
 <img width="793" alt="image" src="https://user-images.githubusercontent.com/47051379/120445601-ba813100-c3c3-11eb-87a9-646d165fc92e.png">
