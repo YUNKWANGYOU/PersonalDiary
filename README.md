@@ -1,6 +1,6 @@
 # Personal Diary
 
-##User Manual
+## User Manual
 <br>
 <a href = 'https://www.youtube.com/watch?v=kby7NY6yrpI'>Watch Personal Diary User Manual On Youtube</a><br>
 1. 사용자 환경은 requirements.txt를 통해 설정해주세요.
