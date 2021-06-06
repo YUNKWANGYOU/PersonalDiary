@@ -16,7 +16,7 @@
 
 <br><br>
 ### User Stories 
-<br><br>
+<br>
 
 1. User <br>
 
@@ -39,7 +39,7 @@
 |6|As an uploader, I want to edit my diary, so that I can see my edited diary.|
 |7|As an uploader, I want to see my diary list that I uploaded, so that I can see my diary list.|
 <br>
-<br>
+<br><br>
 ### Diagram
 <br>
 1. Use Case Diagram
