@@ -1,4 +1,5 @@
 # Personal Diary
+
 - User Manual<br>
 <a href = 'https://www.youtube.com/watch?v=kby7NY6yrpI'>Watch Personal Diary User Manual On Youtube</a><br>
 1. 사용자 환경은 requirements.txt를 통해 설정해주세요.
@@ -36,7 +37,7 @@
 |7|As an uploader, I want to see my diary list that I uploaded, so that I can see my diary list.|
 <br>
 <br>
--Diagram<br>
+- Diagram<br>
 1. Use Case Diagram
 <br><br>
 <p align="center"><img width="793" alt="image" src="https://user-images.githubusercontent.com/47051379/120445601-ba813100-c3c3-11eb-87a9-646d165fc92e.png"></p>
