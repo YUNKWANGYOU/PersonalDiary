@@ -67,7 +67,7 @@
 <img width="343" alt="Screen Shot 2021-06-06 at 3 08 04 PM" src="https://user-images.githubusercontent.com/47051379/120914709-d6921480-c6da-11eb-89f1-a43648165986.png">
 </p><br>
 
-2. tbl_wish<br>
+2. tbl_wish(diary)<br>
 <p align = "center"><img width="443" alt="Screen Shot 2021-06-06 at 3 08 26 PM" src="https://user-images.githubusercontent.com/47051379/120914625-6edbc980-c6da-11eb-9915-71f0928d6c42.png"></p>
 
 
