@@ -1,6 +1,7 @@
 # Personal Diary
 
-##User Manual<br>
+##User Manual
+<br>
 <a href = 'https://www.youtube.com/watch?v=kby7NY6yrpI'>Watch Personal Diary User Manual On Youtube</a><br>
 1. 사용자 환경은 requirements.txt를 통해 설정해주세요.
 2. mysql 서버 활성화 한 이후 mydiary.sql 파일 켜서 쿼리문 실행해주세요. (돌아가지 않는 저장프로시저는 직접 기입해주세요)
