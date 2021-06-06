@@ -1,7 +1,12 @@
 # Personal Diary
 - User Manual<br>
 <a href = 'https://www.youtube.com/watch?v=kby7NY6yrpI'>Watch Personal Diary User Manual On Youtube</a><br>
-사용자 환경은 requirements.txt를 통해 설정하세요
+1. 사용자 환경은 requirements.txt를 통해 설정해주세요.
+2. mysql 서버 활성화 한 이후 mydiary.sql 파일 켜서 쿼리문 실행해주세요. (돌아가지 않는 저장프로시저는 직접 기입해주세요)
+3. app.py 실행해주세요.
+4. 127.0.0.1:5000 접속해주세요.
+5. 서비스를 이용하시면 됩니다.
+
 <br>
 - Mockup <br>
  <img width="945" alt="image" src="https://user-images.githubusercontent.com/47051379/120445207-5b232100-c3c3-11eb-8ad7-0f2ad29aad1a.png">
