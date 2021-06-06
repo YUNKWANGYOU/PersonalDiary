@@ -1,6 +1,6 @@
 # Personal Diary
 
-### User Manual ###
+### User Manual 
 <br>
 <a href = 'https://www.youtube.com/watch?v=kby7NY6yrpI'>Watch Personal Diary User Manual On Youtube</a><br>
 1. 사용자 환경은 requirements.txt를 통해 설정해주세요.
@@ -10,7 +10,7 @@
 5. 서비스를 이용하시면 됩니다.
 
 <br>
-### Mockup ###
+### Mockup 
 <br><br>
  <p align="center"><img width="945" alt="image" src="https://user-images.githubusercontent.com/47051379/120445207-5b232100-c3c3-11eb-8ad7-0f2ad29aad1a.png"></p>
 
