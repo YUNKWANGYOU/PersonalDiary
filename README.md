@@ -56,3 +56,13 @@
 <p align="center"><img width="453" alt="image" src="https://user-images.githubusercontent.com/47051379/120445802-f1efdd80-c3c3-11eb-8695-7dd6f831db3d.png"></p>
 <br>
 
+### DB Schema
+
+<br>
+1. tbl_user<br>
+<p align = "center><img width="343" alt="Screen Shot 2021-06-06 at 3 08 04 PM" src="https://user-images.githubusercontent.com/47051379/120914618-61264400-c6da-11eb-8378-2a83e143e4fe.png"></p><br>
+
+2. tbl_wish<br>
+<p align = "center"><img width="443" alt="Screen Shot 2021-06-06 at 3 08 26 PM" src="https://user-images.githubusercontent.com/47051379/120914625-6edbc980-c6da-11eb-9915-71f0928d6c42.png"></p>
+
+
