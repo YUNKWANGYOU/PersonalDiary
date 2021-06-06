@@ -9,7 +9,7 @@
 4. 127.0.0.1:5000 접속해주세요.
 5. 서비스를 이용하시면 됩니다.
 
-<br>
+<br><br>
 ### Mockup 
 <br><br>
  <p align="center"><img width="945" alt="image" src="https://user-images.githubusercontent.com/47051379/120445207-5b232100-c3c3-11eb-8ad7-0f2ad29aad1a.png"></p>
