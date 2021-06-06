@@ -59,6 +59,7 @@
 ### DB Schema
 
 <br>
+
 1. tbl_user<br>
 <p align = "center"><img width="443" alt="Screen Shot 2021-06-06 at 3 08 26 PM" src="https://user-images.githubusercontent.com/47051379/120914674-992d8700-c6da-11eb-8257-8a8a819c6129.png"></p><br>
 
