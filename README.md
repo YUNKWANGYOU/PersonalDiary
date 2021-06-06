@@ -38,6 +38,7 @@
 |5|As an uploader, I want to delete my diary, so that other I can’t see my diary.|
 |6|As an uploader, I want to edit my diary, so that I can see my edited diary.|
 |7|As an uploader, I want to see my diary list that I uploaded, so that I can see my diary list.|
+
 <br><br>
 
 ### Diagram
